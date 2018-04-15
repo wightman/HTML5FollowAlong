@@ -22,10 +22,11 @@
 	</head>
 	<!-- This is a comment -->
 	<body>
-		<h1>Rick Wightman</h1><h1>			<!-- TODO -->
-		<hr>
-		</h1><h2>Stuff I Like</h2>
-		<!-- Unordered list -->
+		<h1>Rick Wightman</h1>			<!-- TODO -->
+		<hr/>
+		<h2>Stuff I Like</h2>
+		<!-- Unordered list
+      			Want an *ordered* list? Try <ol></ol> tags instead -->
 		<ul>
 			<li>Playing guitar</li>			<!-- TODO -->
 			<li>Jigsaw puzzles</li>			<!-- TODO -->
@@ -38,7 +39,7 @@
 ```html
 <!-- Relative reference to a file - in this case it's
 			 in the same directory as the web page -->
-	<img src="Rick18.jpg"> <!-- TODO: add your photo -->
+	<img src="Rick18.jpeg"> <!-- TODO: add your photo -->
 ```
 4. Add a link just under your picture
 ```html
@@ -71,7 +72,9 @@
 		<br/>
 		<h2>Favourite Cartoon</h2>
 		<!-- Lots of people make their content available through webAPIs -->
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/silJoHrXsIc" frameborder="0" allowfullscreen></iframe> <!-- TODO: add your stuff -->
+		<iframe width="560" height="315" 
+			src="https://www.youtube.com/embed/silJoHrXsIc" frameborder="0" allowfullscreen>
+		</iframe> <!-- TODO: add your stuff -->
 ```
 8. How about something that you made somewhere else? Insert this after your picture:
 ```html
