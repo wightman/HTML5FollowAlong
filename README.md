@@ -1,6 +1,6 @@
 # HTML5 Exercise: Follow Along
 
-1. Here's the starter text:
+1. Here's the starter text. Save it with a name and the file extension ".html"
 ```html
 <!DOCTYPE html>
 	<html>
