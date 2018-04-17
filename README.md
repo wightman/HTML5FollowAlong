@@ -43,7 +43,7 @@
 ```
 4. Add a link just under your picture
 ```html
-<a href="https://www.facebook.com/theWightStuff">Facebook</a> | <!-- TODO: add your stuff -->
+<a href="https://www.facebook.com/theWightStuff">Facebook</a> | <!-- TODO: add your stuff (Instagram?, snapchat?) -->
 <a href="https://twitter.com/wightman">Twitter</a> |
 <a href="http://linkedin.com/in/rick-wightman-25904a91">LinkedIn</a>
 ```
@@ -52,9 +52,10 @@
 5. Audio:
 ```html
 <h2>Some Music</h2>
-<!-- This is the HTML5 GoodStuff(tm) -->
+<!-- This is the HTML5 GoodStuff(tm) Notice that the audio file is in a folder named "music" 
+	in the same location as the html file-->
 <audio controls>
-<source src="RiverFlowsInYou.mp3" type="audio/mpeg"> <!-- TODO: add your stuff -->
+<source src="music/RiverFlowsInYou.mp3" type="audio/mpeg"> <!-- TODO: add your stuff -->
 	Your browser does not support the HTML5 audio element.
 </audio>
 ```
