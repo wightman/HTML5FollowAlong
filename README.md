@@ -43,11 +43,13 @@
 ```
 4. Add a link just under your picture
 ```html
-<a href="https://www.facebook.com/theWightStuff">Facebook</a> | <!-- TODO: add your stuff (Instagram?, snapchat?) -->
-<a href="https://twitter.com/wightman">Twitter</a> |
+<a href="https://www.facebook.com/theWightStuff">Facebook</a> <!-- TODO: add your stuff 
+								(Instagram?, snapchat?) -->
+<a href="https://twitter.com/wightman">Twitter</a>
 <a href="http://linkedin.com/in/rick-wightman-25904a91">LinkedIn</a>
 ```
-	Add some multimedia to the bottom of the page using HTML5 media elements. If you have your own stuff, insert it, otherwise enjoy mine.
+Add some multimedia to the bottom of the page using HTML5 media elements. If you have your own stuff,
+insert it, otherwise enjoy mine.
 
 5. Audio:
 ```html
