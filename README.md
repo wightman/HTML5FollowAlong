@@ -1,9 +1,11 @@
 # HTML5 Exercise: Follow Along
 
-1. Here's the starter text. Save it with a name and the file extension ".html"
+1. Download the project by clicking on the green "Clone or download" button on the right side of the project page. Choose "Download ZIP".  Move the zip file from the download directory to your own space and extract it.
+
+2. Open the index.html file in a text editor (notepad on widnows) and in a web browser (preferably Google Chrome). You should see the starter text show below in the text editor. Change and save the text "TA DAH" in the p-tags, save the file and refresh it in the browser to see the changes. Notice the indenting in the file. What does it tell you?
 ```html
 <!DOCTYPE html>
-	<html>
+<html>
 	<head>
 		<meta charset="utf-8"/>
 		<title>Hello world!</title>
