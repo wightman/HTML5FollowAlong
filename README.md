@@ -2,7 +2,7 @@
 
 1. Download the project by clicking on the green "Clone or download" button on the right side of the project page. Choose "Download ZIP".  Move the zip file from the download directory to your own space and extract it.
 
-2. Open the index.html file in a text editor (notepad on widnows) and in a web browser (preferably Google Chrome). Copy the text below into the text editor. Save the file and refresh the browser to see "TA DAH!". Change and save the text "TA DAH" in the <p></p>tags, save the file and refresh it in the browser to see the changes. Notice the indenting in the file. What does it tell you?
+2. Open the index.html file in a text editor (notepad on widnows) and in a web browser (preferably Google Chrome). Copy the text below into the text editor. Save the file and refresh the browser to see "TA DAH!". Change and save the text "TA DAH" in the &lt;p&gt;&lt;/p&gt; tags, save the file and refresh it in the browser to see the changes. Notice the indenting in the file. What does it tell you?
 ```html
 <!DOCTYPE html>
 <html>
