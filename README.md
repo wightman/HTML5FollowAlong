@@ -44,6 +44,7 @@
 										(Instagram?, snapchat?) -->
 		<a href="http://cs.unb.ca">UNB Faculty of Computer Science</a> |
 		<a href="http://cs.unb.ca/profs/wightman">Rick's Faculty Page</a>
+		<a href="http://wizards.cs.unb.ca">Rick's Bag of Web Hammers</a>
 ```
 Add some multimedia to the bottom of the page using HTML5 media elements. If you have your own stuff,
 insert it, otherwise enjoy mine.
