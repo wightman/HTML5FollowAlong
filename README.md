@@ -28,7 +28,7 @@
 		<ul>
 			<li>Playing guitar</li>			<!-- TODO -->
 			<li>Jigsaw puzzles</li>			<!-- TODO -->
-			<li>Programming on the Web</li>	<!-- TODO -->
+			<li>Programming on the Web</li>		<!-- TODO -->
 		</ul>
 ```
 3. Add an image just above the horizontal rule
@@ -56,7 +56,7 @@ insert it, otherwise enjoy mine.
 			<audio controls>
 				<source src="music/River Flows In You.mp3" type="audio/mpeg">
 				Your browser does not support the audio element.
-		</audio>
+			</audio>
 ```
 6. Video:
 ```html
@@ -80,5 +80,5 @@ insert it, otherwise enjoy mine.
 ```html
 	  <!-- Lots of people make their content available through webAPIs -- even me! -->
 		<br/>
-		<iframe src="http://wizards.cs.unb.ca/quoteEngine/getQuote" frameborder="0"></iframe>
+		<iframe src="http://wizards.cs.unb.ca/quoteEngine/getQuote.py" frameborder="0"></iframe>
 ```
