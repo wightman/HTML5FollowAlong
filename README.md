@@ -31,7 +31,7 @@
 			<li>Programming on the Web</li>		<!-- TODO -->
 		</ul>
 ```
-3. Add an image just above the horizontal rule
+3. Add an image just above the horizontal rule (<hr/>) tag
 ```html
 	  <!-- Notice the filename - in this case it's in the same directory as the web page -->
 		<img src="Rick.jpg"> <!-- TODO: change to your photo -->
