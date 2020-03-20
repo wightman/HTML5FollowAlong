@@ -80,7 +80,7 @@ If you have your own stuff then insert it, otherwise enjoy mine.
 
 8. How about something that you made somewhere else? Insert this after your picture:
 ```html
-<!-- Sorry. This part isn't available because my server is online during these times. Darn you COVID-19!
+<!-- Sorry. This part isn't available because my server is offline during these weird times. Darn you COVID-19!
 	<!-- Lots of people make their content available through webAPIs -- even me! -->
 <!--
 <br/>
