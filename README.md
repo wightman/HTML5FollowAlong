@@ -45,7 +45,7 @@
 		<a href="http://cs.unb.ca/profs/wightman">Rick's Faculty Page</a>
 		<a href="https://www.instagram.com/rick.wightman/">InstaRick</a>
 ```
-Add some multimedia to the bottom of the page (just before the </body> tag) using HTML5 media elements. 
+Add some multimedia to the bottom of the page (just before the &lt;/body&gt; tag) using HTML5 media elements. 
 If you have your own stuff then insert it, otherwise enjoy mine.
 
 5. Audio:
