@@ -77,11 +77,14 @@ If you have your own stuff then insert it, otherwise enjoy mine.
 			src="https://www.youtube.com/embed/GBkT19uH2RQ" frameborder="0" allowfullscreen>
 		</iframe> <!-- TODO: add your stuff -->
 ```
-<!-- Sorry. This part isn't available because my server is online during these times. Darn you COVID-19!
+
 8. How about something that you made somewhere else? Insert this after your picture:
 ```html
-	  <!-- Lots of people make their content available through webAPIs -- even me! -->
-<!--		<br/>
+<!-- Sorry. This part isn't available because my server is online during these times. Darn you COVID-19!
+	<!-- Lots of people make their content available through webAPIs -- even me! -->
+<!--
+<br/>
 		<iframe src="http://wizards.cs.unb.ca/quoteEngine/getQuote.py" frameborder="0"></iframe>
-```
 -->
+```
+
