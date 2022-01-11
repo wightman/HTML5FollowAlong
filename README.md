@@ -81,9 +81,9 @@ If you have your own stuff then insert it, otherwise enjoy mine.
 8. How about something that you made somewhere else? Insert this after your picture:
 ```html
 	<!-- Lots of people make their content available through webAPIs -- even me! -->
-<!--
+
 <br/>
 		<iframe src="http://wizards.cs.unb.ca/quoteEngine/getQuote.py" frameborder="0"></iframe>
--->
+
 ```
 
