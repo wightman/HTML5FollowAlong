@@ -2,7 +2,8 @@
 
 1. Download the project by clicking on the green "Clone or download" button on the right side of the project page. Choose "Download ZIP".  Move the zip file from the download directory to your own space and extract it.
 
-2. Open the index.html file in a text editor (notepad on windows) and in a web browser (preferably Google Chrome). Copy the text below into the text editor. Save the file and refresh the browser to see "TA DAH!". Also notice the title (text in the tab for the page) has changed. Change and save the text "TA DAH" in the &lt;p&gt;&lt;/p&gt; tags, save the file and refresh it in the browser to see the changes. Notice the indenting in the file. What does it tell you?
+2. Open the index.html file in a text editor (notepad on windows) and in a web browser (preferably Google Chrome). Copy the text below into the text editor. Save the file and refresh the browser to see "TA DAH!". Also notice the title (text in the tab for the page) has changed. Change and save the text "TA DAH" in the &lt;p&gt;&lt;/p&gt; 
+, save the file and refresh it in the browser to see the changes. Notice the indenting in the file. What does it tell you?
 ```html
 <!DOCTYPE html>
 <html>
@@ -16,8 +17,8 @@
 </html>
 ```
 2. Add your text to personalize the page
-	- change the text in the <title></title> tags to something you'd like
-	- add the following text in between the <body></body> tags
+	- change the text in the &lt;title&gt;&lt;/title&gt; tags to something you'd like
+	- add the following text in between the &lt;body&gt;&lt;/body&gt; tags
 ```html
 		<!-- This is a comment -->
 		<h1>Rick Wightman</h1>			<!-- TODO -->
@@ -61,7 +62,7 @@ If you have your own stuff then insert it, otherwise enjoy mine.
 6. Video:
 ```html
 		<h2>Family Video</h2>
-		<!-- More of the HTML5 GoodStuff(tm). Notice now that the pat is an address (URL) since it's on another 
+		<!-- More of the HTML5 GoodStuff(tm). Notice now that this part uses an address (URL) since it's on another 
 			machine on the web -->
 		<video width="400" controls>
 			<source src="http://www.cs.unb.ca/~wightman/LittleWightmansDancing.mp4" type="video/mp4">
